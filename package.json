@@ -1,9 +1,12 @@
 {
   "name": "nityanand",
   "version": "1.0.0",
+  "homepage": "https://Nityanand7.github.io/PortfolioWebsite",
   "description": "",
   "main": "src/index.js",
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
