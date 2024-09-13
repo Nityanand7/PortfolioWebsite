@@ -13,7 +13,7 @@ function Experience() {
         <div className="timeline-item" data-year="Jan 2023 - May 2024">
           <h3>Graduate Teaching Assistant</h3>
           <p><b><i>Wichita State University, Kansas</i></b></p>
-          <p>Taught and mentored students in Computer Networks and Wireless Networking, overseeing practical work in areas such as capture-the-flag competitions. Focused on delivering interactive learning and developing innovative teaching methods for complex technical subjects.</p>
+          <p>Taught and mentored students in Data Analytics and Computer Networks, focusing on delivering interactive learning experiences. Developed innovative teaching methods for complex technical subjects, ensuring students gained practical knowledge and hands-on experience.</p>
         </div>
         <div className="timeline-item" data-year="Oct 2021 - June 2022">
           <h3>Senior Data Analyst </h3>
