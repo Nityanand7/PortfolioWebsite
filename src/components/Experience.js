@@ -21,7 +21,7 @@ function Experience() {
           <p>During my time at Great Learning, I leveraged data analysis to drive targeted campaigns, resulting in a 200% revenue increase. I built interactive dashboards using Tableau and Metabase for actionable insights, while also employing SQL, Amazon Redshift, and AWS Glue to optimize ETL workflows, enhancing data processing efficiency and improving user engagement and conversion rates.</p>
         </div>
         <div className="timeline-item" data-year="May 2019 - Oct 2021">
-          <h3>Data Analyst</h3>
+          <h3>Software Engineer</h3>
           <p><b><i>Capgemini</i></b></p>
           <p>At Capgemini, I played a key role in enhancing financial forecasting models and data processes. By utilizing SQL, Python, and automated data pipelines, I boosted operational efficiency by 25%. Additionally, I delivered ad-hoc reports and data validation techniques that led to a significant 18% cost reduction for banking and retail clients.</p>
         </div>
